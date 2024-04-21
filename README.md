@@ -10,8 +10,14 @@ In today's globalized world, businesses operate across borders and languages, ge
 ### Problem
 Many businesses struggle to extract meaningful information from multilingual data due to the complexity of identifying and categorizing named entities such as people, organizations, locations, dates, and more. Existing NER systems often perform poorly across different languages, leading to inaccurate results and missed opportunities for valuable insights. ❌
 
+![Roberta](https://github.com/KartikeyBartwal/Multi-Lingual-Named-Entity-Recognition-System/assets/98084657/f2c40506-5e48-454b-afa6-072388b2391d)
+
 ### Solution
+
 Our NER system utilizes state-of-the-art machine learning algorithms and natural language processing techniques to accurately identify and classify named entities in multiple languages. By leveraging a diverse range of linguistic features and contextual clues, our system delivers high precision and recall rates, ensuring reliable results across languages. 🔍
+
+![96767Spacy Output](https://github.com/KartikeyBartwal/Multi-Lingual-Named-Entity-Recognition-System/assets/98084657/42eaca95-aed0-476d-b8e0-4d4fffc7613b)
+
 
 ### Benefits
 - **Improved Data Accuracy:** Our NER system enhances the accuracy of multilingual data processing, reducing errors and improving the quality of insights derived from the data. ✔️
