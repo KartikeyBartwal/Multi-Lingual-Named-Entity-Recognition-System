@@ -1,5 +1,7 @@
 # Multilingual Named Entity Recognition System
 
+![sc6](https://github.com/KartikeyBartwal/Multi-Lingual-Named-Entity-Recognition-System/assets/98084657/ee171ba8-98bb-433f-864c-8efdd180abca)
+
 ## 🚀 Unlock the Power of Multilingual Data with Our Named Entity Recognition System 🚀
 
 ### Introduction
